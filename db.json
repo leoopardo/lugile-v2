@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": " Manta ocasional Roupa de 2pçs",
+      "Cor": "Preto e Branco",
+      "Estilo": "Casual",
+      "Estampa": "Xadrez",
+      "Material": "Tecido",
+      "Composição": "95% Poliéster, 5% Spandex",
+      "gola": "Alcinha",
+      "Manga": "Sem Mangas",
+      "Ajuste": "Slim Fit",
+      "Tecido": "Elasticidade Baixa",
+      "price": "R$41,95",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/03/25/1616635269cc77ca0c790afae2440ead4a593fc511_thumbnail_600x.webp"
+    },
+    {
+      "id": 2,
+      "title": "Bordado Animal ocasional Roupa de 2pçs",
+      "Cor": "Branco",
+      "Estilo": "Casual",
+      "Estampa": "Animal",
+      "Material": "Tecido",
+      "Composição": "100% Algodão",
+      "gola": "Encapuzado",
+      "Manga": "Manga Comprida",
+      "Ajuste": "Ajuste Regular",
+      "Tecido": "Elasticidade Baixa",
+      "price": "R$134,90",
+      "img": "https://img.ltwebstatic.com/images3_pi/2020/09/08/1599531703488118115c912ae9eee2196299368014_thumbnail_600x.webp"
+    },
+    {
+      "id": 3,
+      "title": "Nó na gola Listrado Boho Roupa de 2pçs",
+      "Cor": "Multicolorido",
+      "Estilo": "Boho",
+      "Estampa": "Listrado",
+      "Material": "Tecido",
+      "Composição": "100% Poliéster",
+      "gola": "Sem Alças",
+      "Manga": "Sem Mangas",
+      "Ajuste": "Ajuste Regular",
+      "Tecido": "Não Elástico",
+      "price": "R$40,90",
+      "img": "https://img.ltwebstatic.com/images3_pi/2021/06/25/16246197049cf37c84d04b018d6b47d1dedbe5ee2c_thumbnail_600x.webp"
+    }
+  ],
+  "users": {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "123456789",
+    "email": "jd@email.com"
+  }
+}
